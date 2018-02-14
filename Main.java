@@ -4,7 +4,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		MixedFractionDivisionProblem.printProblemsWithMultipleChoiceAnswers(25);
+		FractionDivisionProblem.printProblemsWithMultipleChoiceAnswers(3);
 		//LESumDiffWordProblem.printProblemsWithMultipleChoiceAnswers(5);
 		//LEYoungerOlderWordProblem.printProblemsWithMultipleChoiceAnswers(5);
 		//LENickelDimeProblem.printProblemsWithMultipleChoiceAnswers(5);
